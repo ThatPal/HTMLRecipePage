@@ -1,4 +1,4 @@
-# HTMLRecipePage
+# HTML Recipe Page
 A practice project completed while learning HTML
 
 Project from [freeCodeCamp][Learning Site] in the [The Odin Project][Curriculum] learning curriculum.
