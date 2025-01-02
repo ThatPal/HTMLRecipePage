@@ -5,9 +5,10 @@ Project from [freeCodeCamp][Learning Site] in the [The Odin Project][Curriculum]
 
 Project includes:
 * HTML Boilerplate
-* HTML main element
-* Figure and caption elements
-* Fieldset and legend elements
+* HTML headings
+* HTML lists
+* HTML links
+* HTML images
 
 View on [CodePen][CodePen]
 
